@@ -1,6 +1,6 @@
-
 # CONTRIBUTORS
-<!-- 
+
+<!--
 >>>>>>> Guide <<<<<<<<
 
  Firstly Add a comment
@@ -9,6 +9,7 @@
  -->
 
 <!-- unclebay contribution -->
+
 - [@Ayodele Samuel Adebayo - ADCF](https://github.com/unclebay143)
 <!-- ekesolonge contribution -->
 - [@Ekeso Longe](https://github.com/ekesolonge)
@@ -20,3 +21,5 @@
 - [@Maureen Anyanwu](https://github.com/maura-dev)
 <!--ArimoroOlamilekan Contribution-->
 - [@Arimoro Olamilekan](https://github.com/Lexitar32)
+- <!--MaxwellDiogu's Contribution-->
+- [@Maxwell Diogu](https://github.com/sdumax)
